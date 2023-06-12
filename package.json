@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "send email via nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AneeshBist/email-nodejs.git"
+  },
+  "author": "Aneesh Bist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AneeshBist/email-nodejs/issues"
+  },
+  "homepage": "https://github.com/AneeshBist/email-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
